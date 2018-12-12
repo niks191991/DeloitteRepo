@@ -12,7 +12,7 @@ java -jar DeloitteDigitalScheduler.jar
 Application provides the presentation slot timings output file named DeloitteDigital_Output.txt under folder C:\ Scheduler_Deloitte
 
 
-Technical Details
+# Technical Details
 1.	Implemented using OOPS concept.
 2.	Stream API Java 8
 3.	Design Architecture with MVC Layer
