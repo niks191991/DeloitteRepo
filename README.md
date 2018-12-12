@@ -1,5 +1,4 @@
-# DeloitteRepo
-Deloitte Digital Scheduler
+# Deloitte Digital Scheduler
 Deloitte Digital Away Day is an application to schedule the presentation in a day based on the best approach timing slots.
 
 # Installation
