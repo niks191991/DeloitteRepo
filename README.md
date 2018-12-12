@@ -13,7 +13,7 @@ Application provides the presentation slot timings output file named DeloitteDig
 
 
 # Technical Details
-1.	Implemented using OOPS concept.
+1.	1.	Implemented using OOPS concept.
 2.	Stream API Java 8
 3.	Design Architecture with MVC Layer
 4.	Used Modular approach
@@ -24,6 +24,5 @@ Application provides the presentation slot timings output file named DeloitteDig
 9.	Greedy Selection Approach
 10.	File Read/Write using Java 8
 11.	LocalTime Java 8
-
 
 ScheduleUtility
