@@ -1,11 +1,14 @@
 # DeloitteRepo
 Deloitte Digital Scheduler
 Deloitte Digital Away Day is an application to schedule the presentation in a day based on the best approach timing slots.
-Installation
+
+# Installation
 It is a Runnable JAR file DeloitteDigitalScheduler.jar to export the output file with presentation timings.
-Execute command
+
+# Execute command
 java -jar DeloitteDigitalScheduler.jar
-Usage
+
+# Usage
 Application provides the presentation slot timings output file named DeloitteDigital_Output.txt under folder C:\ Scheduler_Deloitte
 
 
